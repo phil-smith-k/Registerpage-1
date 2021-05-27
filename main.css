@@ -1,12 +1,12 @@
 body {
     background-color: rgba(0, 162, 255, 0.952);
     margin: 0%;
-    height: 100vh;
+    /*height: 100vh;*/
     font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
 nav {
-    height: 8%;
+    height: 12%;
     background-color: white;
     text-align: right;
 }
